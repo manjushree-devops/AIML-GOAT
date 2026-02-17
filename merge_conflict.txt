@@ -1,1 +1,1 @@
-this is a merge message
+this is a merge conflict message error handeling
