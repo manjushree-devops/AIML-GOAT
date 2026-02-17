@@ -1,3 +1,0 @@
-PYTHON
-C
-HTML
