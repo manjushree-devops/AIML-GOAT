@@ -1,0 +1,18 @@
+<!DOCTYPE html>
+<html>
+<head>
+    <title>Disease Diagnosis Dataset</title>
+    <link rel="stylesheet" href="{{ url_for('static', filename='style.css') }}">
+</head>
+<body>
+
+    <h1>Disease Diagnosis Data</h1>
+    <p>Showing first 20 records</p>
+
+    <div class="table-container">
+        {{ table|safe }}
+    </div>
+
+</body>
+</html>
+
